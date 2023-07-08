@@ -1,8 +1,8 @@
-# vagrant - or - how to code in your local computer
+# Vagrant - or - how to code in your local computer
 
-## learning objective
+## Learning objective
 
-At the end of this project, you are expected to be able to explain to anyone, without the help of google: 
+At the end of this project, you are expected to be able to explain to anyone, without the help of google:
 
 * What is a virtual machine
 
@@ -10,4 +10,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 * Who wrote vagrant
 
-* What is ubuntu 
+* What is ubuntu
